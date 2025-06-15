@@ -6,7 +6,6 @@ Este projeto implementa um meio somador (half adder) em VHDL e realiza a simula�
 
 - `meio_somador.vhd`: Implementação do meio somador.
 - `tb_meio_somador.vhd`: Testbench para simulação.
-- `simulation/waveform.png`: Resultado da simulação no ModelSim.
 
 ## Como simular
 

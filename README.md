@@ -23,10 +23,11 @@ Este projeto implementa um meio somador (half adder) em VHDL e realiza a simula�
 
 3. Execute o processo de simulação:
     ```
+    add wave *
     run 200 ns
     ```
 
-4. Observe os sinais no painel de waveform.
+5. Observe os sinais no painel de waveform.
 
 ## Resultado da Simulação
 

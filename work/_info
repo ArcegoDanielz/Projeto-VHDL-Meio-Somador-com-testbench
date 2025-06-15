@@ -1,0 +1,156 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+Emeio_somador
+Z0 w1750014499
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 15
+Z3 dC:/Users/PC/OneDrive/Desktop/ModelSim
+Z4 8meio_somador.vhd
+Z5 Fmeio_somador.vhd
+l0
+L4 1
+VfM5815UgULB1@3@iAkU`m1
+!s100 zCJBdbGgkJE^eh@844:480
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1750015620
+!i10b 1
+Z8 !s108 1750015619.000000
+Z9 !s90 -reportprogress|300|meio_somador.vhd|
+Z10 !s107 meio_somador.vhd|
+!i113 1
+Z11 tExplicit 1 CvgOpt 0
+Acomportamento
+R1
+R2
+DEx4 work 12 meio_somador 0 22 fM5815UgULB1@3@iAkU`m1
+!i122 15
+l14
+L13 5
+VCnDURj^nZWAg4XE[G[WO31
+!s100 Gch:Rc_U2cO]RzbBE>IGA3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+Abehavioral
+R1
+R2
+DEx4 work 12 meio_somador 0 22 Y<bC1A0Q`f>Sh4`U;PiNL3
+!i122 7
+l15
+L14 5
+VCS9<GGZUCUKDZIR0D_l8S2
+!s100 U0k7Fk`K_P?jm5gICzV3L1
+R6
+32
+!s110 1750014375
+!i10b 1
+!s108 1750014375.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/PC/OneDrive/Desktop/ModelSim/meio_somador.vhd|
+!s107 C:/Users/PC/OneDrive/Desktop/ModelSim/meio_somador.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+R11
+w1749928889
+FC:/Users/PC/OneDrive/Desktop/ModelSim/meio_somador.vhd
+8C:/Users/PC/OneDrive/Desktop/ModelSim/meio_somador.vhd
+Etb_meio_somador
+w1750014940
+R1
+R2
+!i122 12
+R3
+Z13 8C:/Users/PC/OneDrive/Desktop/ModelSim/tb_meio_somador.vhd
+Z14 FC:/Users/PC/OneDrive/Desktop/ModelSim/tb_meio_somador.vhd
+l0
+L4 1
+V4TI>Y<ma[JV58YEl5CPF^0
+!s100 _Tz8SXMnMc^5A]TV>c:Ei2
+R6
+32
+!s110 1750014962
+!i10b 1
+!s108 1750014962.000000
+Z15 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/PC/OneDrive/Desktop/ModelSim/tb_meio_somador.vhd|
+Z16 !s107 C:/Users/PC/OneDrive/Desktop/ModelSim/tb_meio_somador.vhd|
+!i113 1
+R12
+R11
+Astim_proc
+Z17 w1750015101
+R1
+R2
+Z18 DEx4 work 15 tb_meio_somador 0 22 4TI>Y<ma[JV58YEl5CPF^0
+!i122 16
+Z19 8tb_meio_somador.vhd
+Z20 Ftb_meio_somador.vhd
+l14
+Z21 L1 43
+V[A_<P<@Ff>>[Q6^WRMoQP0
+Z22 !s100 NM:[E<dDhanh0bfOXOk`32
+R6
+32
+R7
+!i10b 1
+!s108 1750015620.000000
+Z23 !s90 -reportprogress|300|tb_meio_somador.vhd|
+Z24 !s107 tb_meio_somador.vhd|
+!i113 1
+R11
+Ameio_somador
+R1
+R2
+R18
+!i122 9
+l20
+L7 33
+VSzNJ;DROTo]iPS@[HRma=0
+!s100 JQ55aXDBdaESKNkezFk0j1
+R6
+32
+!s110 1750014757
+!i10b 1
+!s108 1750014757.000000
+R15
+R16
+!i113 1
+R12
+R11
+w1750014163
+Asim
+R1
+R2
+DEx4 work 15 tb_meio_somador 0 22 <d9ZlDmK47e>Q4aeCEMmG1
+!i122 6
+l21
+L8 25
+VHoaY4YL[iHGMWj^CWC5PN2
+!s100 WT8RL>Y6dC_2W_HeR1;>C3
+R6
+32
+!s110 1750014054
+!i10b 1
+!s108 1750014054.000000
+R23
+R24
+!i113 1
+R11
+R20
+w1749928891
+R19

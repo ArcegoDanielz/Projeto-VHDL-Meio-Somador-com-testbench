@@ -1,0 +1,174 @@
+# Compile of tb_meio_somador.vhd was successful.
+# Compile of meio_somador.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_meio_somador
+# vsim work.tb_meio_somador 
+# Start time: 16:12:55 on Jun 15,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_meio_somador(meio_somador)
+# Loading work.meio_somador(comportamento)
+add wave *
+run 200 ns
+
+vsim work.tb_meio_somador
+# End time: 16:14:55 on Jun 15,2025, Elapsed time: 0:02:00
+# Errors: 0, Warnings: 4
+# vsim work.tb_meio_somador 
+# Start time: 16:14:55 on Jun 15,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_meio_somador(meio_somador)
+# Loading work.meio_somador(comportamento)
+add wave *
+run 200 ns
+
+# Compile of meio_somador.vhd was successful.
+# Compile of tb_meio_somador.vhd was successful.
+# Compile of meio_somador.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_meio_somador
+# End time: 16:16:12 on Jun 15,2025, Elapsed time: 0:01:17
+# Errors: 0, Warnings: 3
+# vsim work.tb_meio_somador 
+# Start time: 16:16:12 on Jun 15,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_meio_somador(stim_proc)
+# Loading work.meio_somador(comportamento)
+add wave *
+run 200 ns
+
+# Compile of meio_somador.vhd was successful.
+# Compile of tb_meio_somador.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_meio_somador
+# End time: 16:18:47 on Jun 15,2025, Elapsed time: 0:02:35
+# Errors: 0, Warnings: 4
+# vsim work.tb_meio_somador 
+# Start time: 16:18:47 on Jun 15,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_meio_somador(stim_proc)
+# Loading work.meio_somador(comportamento)
+add wave *
+run 200 ns
+
+vsim work.tb_meio_somador
+# End time: 16:20:10 on Jun 15,2025, Elapsed time: 0:01:23
+# Errors: 0, Warnings: 1
+# vsim work.tb_meio_somador 
+# Start time: 16:20:10 on Jun 15,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_meio_somador(stim_proc)
+# Loading work.meio_somador(comportamento)
+add wave *
+run 100 ns
+
+vsim work.tb_meio_somador
+# End time: 16:24:03 on Jun 15,2025, Elapsed time: 0:03:53
+# Errors: 0, Warnings: 1
+# vsim work.tb_meio_somador 
+# Start time: 16:24:04 on Jun 15,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_meio_somador(stim_proc)
+# Loading work.meio_somador(comportamento)
+add wave *
+run 200 ns
+
+restart -f
+add wave *
+run 50 ns
+
+vcom meio_somador.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:26:59 on Jun 15,2025
+# vcom -reportprogress 300 meio_somador.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity meio_somador
+# -- Compiling architecture comportamento of meio_somador
+# End time: 16:27:00 on Jun 15,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom tb_meio_somador.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:27:00 on Jun 15,2025
+# vcom -reportprogress 300 tb_meio_somador.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture stim_proc of tb_meio_somador
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_meio_somador
+# End time: 16:27:00 on Jun 15,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+
+vsim work.tb_meio_somador
+# End time: 16:27:12 on Jun 15,2025, Elapsed time: 0:03:08
+# Errors: 0, Warnings: 1
+# vsim work.tb_meio_somador 
+# Start time: 16:27:12 on Jun 15,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_meio_somador(stim_proc)
+# Loading work.meio_somador(comportamento)
+
+add wave *
+run 50 ns
+
+restart -force
+run 200 ns
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+
+git remoto adicionar origem https://github.com/ArcegoDanielz/Projeto-VHDL-Meio-Somador-com-testbench.git
+# git: 'remoto' is not a git command. See 'git --help'.
+# 
+# The most similar command is
+# 	remote
+ git branch -M main 
+# fatal: not a git repository (or any of the parent directories): .git
+git push -u origin main
+# fatal: not a git repository (or any of the parent directories): .git
+git remoto adicionar origem https://github.com/ArcegoDanielz/Projeto-VHDL-Meio-Somador-com-testbench.git
+# git: 'remoto' is not a git command. See 'git --help'.
+# 
+# The most similar command is
+# 	remote
+echo "# Projeto-VHDL-Meio-Somador-com-testbench" >> README.md 
+# Projeto-VHDL-Meio-Somador-com-testbench >> README.md
+git init 
+# Initialized empty Git repository in C:/Users/PC/OneDrive/Desktop/ModelSim/.git/
+git add README.md 
+# fatal: pathspec 'README.md' did not match any files
+git commit -m "primeiro commit" 
+# On branch master
+# 
+# Initial commit
+# 
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+# 	MeioSomador.cr.mti
+# 	MeioSomador.mpf
+# 	ModelSimTrabalho.cr.mti
+# 	ModelSimTrabalho.mpf
+# 	meio_somador.vhd
+# 	tb_meio_somador.vhd
+# 	transcript
+# 	vsim.wlf
+# 	work/
+# 
+# nothing added to commit but untracked files present (use "git add" to track)
+# child process exited abnormally
+git init
+# Reinitialized existing Git repository in C:/Users/PC/OneDrive/Desktop/ModelSim/.git/
